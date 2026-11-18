@@ -19,6 +19,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 /* Private includes ----------------------------------------------------------*/
+#include "main.h"
 #include "st7735.h"
 #include "fonts.h"
 #include <stdlib.h>
